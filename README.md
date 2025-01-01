@@ -1,4 +1,4 @@
-$@priincce$ <br>
+#@priincce# <br>
 -a computer science enthusiast interested in CP and Web Dev (specifically Backend)<br>
 -From 2 years of learning i have skilled at RDBMS (mySQL )  and MongoDB<br>
 -gained skills in python and c++ programming<br>
