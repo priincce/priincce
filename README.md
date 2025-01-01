@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princebeersingh
+- 👋 Hi, I’m @priincce
 - 👀 I’m interested in ... machine learning, competetive programming and backend development
 - 🌱 I’m currently learning ... Django REST FrameWork
 - I’m looking to collaborate on ... hackathon team 
