@@ -3,7 +3,7 @@
 👋 Hi, I'm Prince! I'm passionate about **Software Development Life Cycle, Machine Learning, and Artificial Intelligence**. I love solving algorithmic challenges and building scalable software systems.  
 
 ## 🔥 What I'm Working On  
-- 🏗 Learning **System Design** and **Design Patterns**  
+- 🏗 Learning **System Design** and **Design Patterns**   with **C++**
 - 🚀 Backend projects: **E-commerce app (Django, React, MySQL)** & **To-do app (Node.js, MongoDB) both integrated with authentication system**  
 - 🧠 Developing **ML-powered disease prediction web app**  
 - 🏆 Sharpening my **Problem Solving** skills  
