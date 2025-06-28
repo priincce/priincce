@@ -20,7 +20,7 @@
 - Become a ** Software  Developer **
 
 ## 📊 Coding Stats  
-- **LeetCode :** 1580+ rating
+- **LeetCode :** 1755+ rating
 - **CodeChef:** 1600+ rating  
 - **Codeforces:** 1000+ rating 
 
